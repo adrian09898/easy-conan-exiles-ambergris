@@ -192,4 +192,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Conan Exiles · Updated 2026-11-27 · Shared under the MIT License*
+*Conan Exiles · Updated 2026-11-28 · Shared under the MIT License*
